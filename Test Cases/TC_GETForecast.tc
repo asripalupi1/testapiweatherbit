@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GET Forecast</description>
+   <name>TC_GETForecast</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e4f2492-60f2-45e6-bdac-692e30ac4fae</testCaseGuid>
+</TestCaseEntity>
